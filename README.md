@@ -1,5 +1,5 @@
 # Hello, I'm Vukasin! 👋 
-### Third-year student at the Faculty of Technical Sciences in Novi Sad, specializing in Applied Software Engineering.
+### Final-year student at the Faculty of Technical Sciences in Novi Sad, specializing in Applied Software Engineering.
 ### 📩 vukasinperovic10@gmail.com 
 ### LinkedIn: www.linkedin.com/in/vukasin-perovic-008589211
 
