@@ -7,10 +7,6 @@
 As far back as I can remember, I've had this undeniable passion for all things tech. Whether it's gaming, crafting lines of code, or putting together the ultimate gaming rig, anything within the vast spectrum of computers has always been my jam. 
 Over the last couple of years, I find my joy in programming. There's nothing quite like settling down with a nice cup of coffee ☕, putting on some music 🎶, and immersing myself in the challenge of solving a problem through code. 🧑‍💻
 
-## Current Project 📲⭐
-Presently, I'm immersed in the exciting development of a mobile app focused on gym and training.It's going to eliminate the monotony of traditional logging methods like spreadsheets. The app aims to provide users with a user-friendly interface to effortlessly log their progress. Beyond just data entry, users will be able to visualize their fitness journey, tracking their accomplishments and witnessing how far they've come.
-Used language: **React Native** <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-
 ## Self Taught Stuff 🤝
 In 2022, started to development webpages using React.js. This exploration not only deepened my understanding of front-end technologies but also led me to fascinating discoveries.
 Used languages and frameworks: 
